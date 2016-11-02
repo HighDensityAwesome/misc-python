@@ -1,0 +1,17 @@
+## Instructions for creating a local github repository ##
+
+1.	Create a new repo on Github	{remote}	
+
+2.	git init	{local}
+
+3.	git add .	#dot can be substituted for any file or directory desired to be added to local repo
+
+4.	git commit -m "First commit"
+
+5.	git remote add origin {remote repository URL}	#sets remote directory
+
+6.	git remote -v	#verifies the new remote URL
+
+7.	git push origin master
+
+
