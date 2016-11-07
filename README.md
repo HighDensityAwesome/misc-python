@@ -1,7 +1,7 @@
 # A Collection of Miscellaneous Scripts and Tips #
-\
-\
-\
+&nbsp;
+&nbsp;
+&nbsp;
 ## ALIASES/FUNCTIONS ##
 
   **.bashrc** 
