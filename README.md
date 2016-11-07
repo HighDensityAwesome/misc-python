@@ -12,10 +12,14 @@
 &nbsp;
 
 # BASH #
+&nbsp;
+
   **examples.sh**
   
 &nbsp;
 
 # PYTHON #
+&nbsp;
+
   **get-pip.py**
 
