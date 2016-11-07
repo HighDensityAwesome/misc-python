@@ -6,7 +6,7 @@ The two functions currently in the .bashrc file in the aliases/functions directo
 
 # BASH #
 
-  #example.sh#
+  #EXAMPLE.SH#
 
 # PYTHON #
   #get-pip.py#
