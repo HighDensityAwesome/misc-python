@@ -1,4 +1,4 @@
-## ALIASES/FUNCTIONS ##
+# ALIASES/FUNCTIONS #
 
 
   **.bashrc** 
