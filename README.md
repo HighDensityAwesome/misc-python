@@ -1,4 +1,4 @@
-# A Collection of Miscellaneous #
+# A Collection of Miscellaneous Scripts and Tips #
 
 ## ALIASES/FUNCTIONS ##
 
