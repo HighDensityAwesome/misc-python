@@ -1,5 +1,7 @@
 # A Collection of Miscellaneous Scripts and Tips #
-
+\
+\
+\
 ## ALIASES/FUNCTIONS ##
 
   **.bashrc** 
