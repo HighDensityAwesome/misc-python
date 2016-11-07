@@ -2,6 +2,8 @@
 &nbsp;
 &nbsp;
 &nbsp;
+&nbsp;
+&nbsp;
 ## ALIASES/FUNCTIONS ##
 
   **.bashrc** 
